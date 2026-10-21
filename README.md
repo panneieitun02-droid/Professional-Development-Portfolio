@@ -2,12 +2,6 @@ I'm currently studying Computer Science (Computer Network and Security) at Unive
 
 I'm interested in cybersecurity, especially ethical hacking, because I want to learn how to identify security vulnerabilities and help protect people's data and computer systems. I'm still building my technical skills and exploring different areas of computing, and I'm looking forward to gaining more hands-on experience through projects and practice.
 
-Programming Skills
+I'm familiar with the basics of C, C++, Python, HTML and CSS languages and I'm working on improving my programming and problem-solving skills.
 
-C and C++
-
-Python
-
-HTML and CSS
-
-I'm familiar with the basics of these languages and technologies, and I'm working on improving my programming and problem-solving skills.# Professional-Development-Portfolio
+# Professional-Development-Portfolio
